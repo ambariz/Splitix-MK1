@@ -20,3 +20,21 @@ I learned about the MCUs, but not sure, which one to use.
 
   
 
+## 11/9/2025 - Selected controller, gathered all components  
+
+This journal is for yesterday and today's drawing
+
+I learned about controller for Splitix, by asking in slack and learning in youtube. and selected the controller.
+
+But after selecting the controller, it was not there in kicad so i searched for long time and atlast i got the right circuit and foot print for pro micro.
+
+And learned about neopixels ( it's led but it has it's own brain ) and added encoder, display.
+
+![second journal](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--0fa510888e7399b05aab2d5d7147357fc18af848/second%20journal.png)
+
+And I drew the keyboard by hand in paper to fix the keys, I didn't connect the circuit yet, I will do it in evening.
+
+
+![paper drawing](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f63c95d89db48c2bff5bccfe6c8e345a8084f2e/paper%20drawing.jpg)
+  
+
