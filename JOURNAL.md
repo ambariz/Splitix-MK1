@@ -20,7 +20,7 @@ I learned about the MCUs, but not sure, which one to use.
 
   
 
-## 11/9/2025 - Selected controller, gathered all components  
+## 11/9/2025 12 PM - Selected controller, gathered all components  
 
 This journal is for yesterday and today's drawing
 
@@ -37,4 +37,22 @@ And I drew the keyboard by hand in paper to fix the keys, I didn't connect the c
 
 ![paper drawing](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--3f63c95d89db48c2bff5bccfe6c8e345a8084f2e/paper%20drawing.jpg)
   
+
+## 11/9/2025 11 PM - Connected everything, now circuit is complete  
+
+Today I connected all the components.
+
+I learned that not every component can be connected in any pin, every pin has it's own work.
+
+I added capacitor for each and every pixel and two capacitors. And two capacitors in starting of the neopixel for more filter.
+
+capacitors are like filter for tea
+
+Connecting everything is very hard, It was confusing but i used different colours for it, 
+
+like red for vcc, blue for gnd, green for others 
+
+![3 journal](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--42ac6b38ba0ac3e5b8b8367fc5175a9c00d6eb80/3%20journal.jpg)
+
+I think now the circuit is completed.  
 
