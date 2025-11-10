@@ -70,7 +70,7 @@ And I put X in unused pins, because kicad thinks it's a problem.
 
 I can't say the circuit is over, yesterday I thought the circuit was over but today I made changes.
 
-This is current circuit. (without matrix and leds)
+This is current circuit. (without matrix and leds) ( and I changed the Kicad theme too )
 
 ![4 journal](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNzUsInB1ciI6ImJsb2JfaWQifX0=--aa33b917e7d81ce2a39f46a57164a09c66a54541/4%20journal.png)
 
