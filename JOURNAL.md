@@ -56,3 +56,24 @@ like red for vcc, blue for gnd, green for others
 
 I think now the circuit is completed.  
 
+## 11/10/2025 - Added Battery, Changed few pins on circuit  
+
+I learned how to add battery to this circuit, and how to check battery percentage using voltage divider.
+
+There is a formula for voltage divider.
+
+using that formula we can calculate the remaining battery. 
+
+First I connected the voltage divider in normal pin but after learning a bit more, it should in a pin with a work called ADC which means analog to digital converter.
+
+And I put X in unused pins, because kicad thinks it's a problem.
+
+I can't say the circuit is over, yesterday I thought the circuit was over but today I made changes.
+
+This is current circuit. (without matrix and leds)
+
+![4 journal](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNzUsInB1ciI6ImJsb2JfaWQifX0=--aa33b917e7d81ce2a39f46a57164a09c66a54541/4%20journal.png)
+
+
+   
+
