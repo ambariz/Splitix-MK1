@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "65924c79-ae1e-4d99-92e7-443fc5904ed3")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 167.64 67.31)
+		(size 106.68 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1d83f013-8ea6-4e4a-adc6-7d305f9a0288")
+		(property "Sheetname" "right"
+			(at 167.64 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "right.kicad_sch"
+			(at 167.64 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Splitix MK1"
+				(path "/65924c79-ae1e-4d99-92e7-443fc5904ed3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 67.31)
+		(size 109.22 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97390252-08f7-45f2-af90-3d12df786be1")
+		(property "Sheetname" "left"
+			(at 40.64 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "left.kicad_sch"
+			(at 40.64 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Splitix MK1"
+				(path "/65924c79-ae1e-4d99-92e7-443fc5904ed3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
