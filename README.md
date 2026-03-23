@@ -21,14 +21,14 @@
 | JST-PH 2-pin Connector | 2 | Robu | 2.84 | [Product Link](https://robu.in/product/jst-sh-2-pin-connector-2mm-pitch/) |
 | TP4056 Type-C Charging Module | 2 | Robu | 28 | [Product Link](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
 | Slide Switch SS-12D03 | 2 | Robu | 6 | [Product Link](https://robu.in/product/slide-switch-ss-12d03-1p2t/) |
-| Keyboard PCB Left | 1 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
-| Keyboard PCB Right | 1 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
+| Keyboard PCB Left | 5 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
+| Keyboard PCB Right | 5 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
 | Keyboard Case (3D Print) | 1 | Robu | 530 | [Product Link](https://robu.in/product/3d-printing-service/) |
 | Screws | 15 | Generic |  | Any mini screws will work |
 
 ---
 
-### Total Cost
+### Total Cost (Maximum)
 
 **₹13,793.59**
 
