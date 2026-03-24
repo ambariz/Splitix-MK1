@@ -67,7 +67,7 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 | Product | Quantity | Source | Price (INR) | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| ProMicro NRF52840 | 2 | Robu | 1516 | [Product Link](https://robu.in/product/promicro-nrf52840-development-board/) <br> OR <br> [Product Link](https://robu.in/product/pro-micro-nrf52840-development-board-compatible-with-nicenano-v2-0/) |
+| ProMicro NRF52840 | 2 | Robu | 1516 | [Product Link](https://robu.in/product/promicro-nrf52840-development-board/) <br> OR <br> [Product Link](https://robu.in/product/pro-micro-nrf52840-development-board-compatible-with-nicenano-v2-0/) <br> OR <br> [Product Link](https://probots.co.in/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html)|
 | Hongyan EC11H 7CE20P1ZD20 | 2 | Robu | 110 | [Product Link](https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) |
 | EC11 Rotary Encoder Knob (D-shaft) | 2 | Robu | 58 | [Product Link](https://robu.in/product/potentiometer-knob-rotary-switch-cap-black-color-pack-of-5-pcs/) |
 | 0.96" / 1.3" I2C OLED | 2 | Robu | 312 | [Product Link](https://robu.in/product/0-96-inch-yellow-yellow-blue-oled-lcd-led-display-module/) <br> OR <br> [Product Link](https://robu.in/product/1-3-inch-i2c-iic-4-pin-oled-display-module-with-vcc-gnd-blue/) |
