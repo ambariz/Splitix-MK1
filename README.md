@@ -27,6 +27,9 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 ## CAD
 
+> **Note:**
+> This is a skeletal open case design that includes only the base structure. It is designed to hold the PCB securely while keeping the overall form minimal and exposing the components, especially the RGB lighting. The open design enhances visibility of the internals and lighting, while support pillars and M3 mounts provide the necessary structural stability.
+
 | Left | Right |
 |------|-------|
 | ![case left](./assets/open_left_case_cad.PNG) | ![case right](./assets/open_right_case_cad.PNG) |
