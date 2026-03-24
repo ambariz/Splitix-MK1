@@ -30,6 +30,7 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 | Left | Right |
 |------|-------|
 | ![case left](./assets/open_left_case_cad.PNG) | ![case right](./assets/open_right_case_cad.PNG) |
+| ![case left](./assets/left_open_case.gif) | ![case right](./assets/left_open_case.gif) |
 | ![case left](./assets/open_left_case_cad2.PNG) | ![case right](./assets/open_right_case_cad2.PNG) |
 
 ## PCB
@@ -46,7 +47,7 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/ambariz/Splitix-MK1/main/pcb/Splitix%20MK1.pdf">
-    <img src="https://img.shields.io/badge/Download%20Full%20Schematic-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20To%20Download%20Full%20Schematic-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
@@ -84,7 +85,7 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 | Keyboard PCB Left | 5 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
 | Keyboard PCB Right | 5 | Robu | 2500 | [Product Link](https://robu.in/product/online-pcb-manufacturing-service/) |
 | Keyboard Case (3D Print) | 1 | Robu | 530 | [Product Link](https://robu.in/product/3d-printing-service/) |
-| Screws | 15 | Generic |  | Any mini screws will work |
+| Screws | 15 | Generic |  | Any M3 screws will work |
 
 ---
 
@@ -92,7 +93,7 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 **₹13,793.59**
 
-> Includes all core components for full build.
+> Includes all components for full build.
 
 ---
 
