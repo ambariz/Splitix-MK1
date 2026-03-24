@@ -1,3 +1,51 @@
+# Splitix MK1
+
+A custom, split mechanical keyboard with modular design, it can be used as a split keyboard or joined together and used like a regular keyboard.
+
+Inspired by the split, futuristic keyboard used by Tony Stark in Iron Man, this project explores that concept in a practical, physical form. Splitix MK1 is the first iteration, focused on building a solid foundation before moving towards more advanced designs.
+
+It features a custom PCB designed in KiCad, per-key NeoPixel RGB lighting, an integrated display, and a rotary encoder. The board also includes battery support with voltage monitoring.
+
+The design includes a fully hand-routed PCB with custom footprints and a skeletal 3D-printed case that enhances the lighting and overall aesthetic.
+
+This project is part of a larger journey toward creating a more advanced, Iron Man–inspired keyboard in future iterations.
+
+
+![case left](./assets/left_3d.gif) | ![case right](./assets/right_3d.gif)
+
+# Features
+
+- Split / Modular (can be joined and used as a single keyboard)
+- Wireless (Bluetooth via NRF52840)
+- ZMK Firmware
+- Hotswappable
+- Per-key NeoPixel RGB
+- Rotary Encoder
+- Integrated Display
+- Skeletal 3D-printed case (M3 mount)
+
+## CAD
+Left | Right
+:---:|:---:
+![case left](./assets/open_left_case_cad.png) | ![case right](./assets/open_right_case_cad.png)
+![case left](./assets/open_left_case_cad2.png) | ![case right](./assets/open_right_case_cad2.png)
+
+## PCB
+
+> Note :
+> The PCB is designed as a single board with mouse bite connections, allowing it to be easily snapped into left and right halves after fabrication.
+
+![PCB](./assets/full_pcb.png)
+Left | Right
+:---:|:---:
+![Left schematic](./assets/left_sch.png) | ![Right schematic](./assets/right_sch.png)
+
+## ZMK Keymap
+
+![default](./assets/default_layer.png)
+![lower](./assets/lower_layer.png)
+![raise](./assets/raise_layer.png)
+
 
 ## BOM
 
@@ -69,3 +117,9 @@
 | **3️⃣ Clicky** | Loud click + tactile bump. Very audible → polarizing | Enthusiasts who love feedback |
 | **4️⃣ Low Profile** | Short travel → less thock. More functional than aesthetic | Portable/compact builds |
 | **5️⃣ Silent Switches** | Dampened + muted. Almost no sound → office safe | Office environments |  
+
+
+marbastlib
+keyswitch kicad library
+keyboard footprints placer
+fabrucatuib toolkit
