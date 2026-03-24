@@ -10,7 +10,7 @@ The design includes a fully hand-routed PCB with custom footprints and a skeleta
 
 This project is part of a larger journey toward creating a more advanced, Iron Man - inspired keyboard in future iterations.
 
-| Left Build | Right Build |
+| Left Build (without case) | Right Build (without case) |
 |-----------|------------|
 | ![left build](./assets/left_3d.gif) | ![right build](./assets/right_3d.gif) |
 
@@ -34,10 +34,21 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 ## PCB
 
-> Note:
+> **Note:**  
 > The PCB is designed as a single board with mouse bite connections, allowing it to be snapped into left and right halves after fabrication.
 
 ![PCB](./assets/full_pcb.PNG)
+
+## Schematic
+
+> **Note:**  
+> The preview images may be scaled down and lose detail. Use the PDF below for a clear, full-resolution view.
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ambariz/Splitix-MK1/main/pcb/Splitix%20MK1.pdf">
+    <img src="https://img.shields.io/badge/Download%20Full%20Schematic-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 | Left | Right |
 |------|-------|
