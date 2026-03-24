@@ -8,10 +8,11 @@ It features a custom PCB designed in KiCad, per-key NeoPixel RGB lighting, an in
 
 The design includes a fully hand-routed PCB with custom footprints and a skeletal 3D-printed case that enhances the lighting and overall aesthetic.
 
-This project is part of a larger journey toward creating a more advanced, Iron Man–inspired keyboard in future iterations.
+This project is part of a larger journey toward creating a more advanced, Iron Man - inspired keyboard in future iterations.
 
-
-![case left](./assets/left_3d.gif) | ![case right](./assets/right_3d.gif)
+| Left Build | Right Build |
+|-----------|------------|
+| ![left build](./assets/left_3d.gif) | ![right build](./assets/right_3d.gif) |
 
 # Features
 
@@ -25,26 +26,26 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 - Skeletal 3D-printed case (M3 mount)
 
 ## CAD
-Left | Right
-:---:|:---:
-![case left](./assets/open_left_case_cad.png) | ![case right](./assets/open_right_case_cad.png)
-![case left](./assets/open_left_case_cad2.png) | ![case right](./assets/open_right_case_cad2.png)
+
+| Left | Right |
+|------|-------|
+| ![case left](./assets/open_left_case_cad.PNG) | ![case right](./assets/open_right_case_cad.PNG) |
+| ![case left](./assets/open_left_case_cad2.PNG) | ![case right](./assets/open_right_case_cad2.PNG) |
 
 ## PCB
 
-> Note :
-> The PCB is designed as a single board with mouse bite connections, allowing it to be easily snapped into left and right halves after fabrication.
+> Note:
+> The PCB is designed as a single board with mouse bite connections, allowing it to be snapped into left and right halves after fabrication.
 
-![PCB](./assets/full_pcb.png)
-Left | Right
-:---:|:---:
-![Left schematic](./assets/left_sch.png) | ![Right schematic](./assets/right_sch.png)
+![PCB](./assets/full_pcb.PNG)
+
+| Left | Right |
+|------|-------|
+| ![Left schematic](./assets/left_sch.PNG) | ![Right schematic](./assets/right_sch.PNG) |
 
 ## ZMK Keymap
 
-![default](./assets/default_layer.png)
-![lower](./assets/lower_layer.png)
-![raise](./assets/raise_layer.png)
+> need to be added
 
 
 ## BOM
