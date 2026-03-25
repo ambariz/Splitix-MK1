@@ -60,8 +60,9 @@ This project is part of a larger journey toward creating a more advanced, Iron M
 
 ## ZMK Keymap
 
-> need to be added
-
+![layer 0](./assets/layer_0.png)
+![layer 1](./assets/layer_1.png)
+![layer 2](./assets/layer_2.png)
 
 ## BOM
 
