@@ -1,4 +1,4 @@
-# Production – Splitix MK1
+# Production - Splitix MK1
 
 ## Production Files
 
@@ -45,32 +45,23 @@
 1. Go to any PCB manufacturer (JLCPCB, PCBWay, etc.)
 
 2. Upload:
-
    ```
    gerber_left.zip
    gerber_right.zip
    ```
-
    or:
-
    ```
    gerber_full.zip
    ```
 ---
 
 ## Source Files
-
 For modifications:
-
 * PCB design → `/pcb/`
 * Case models → `/cad/`
-
 ---
-
 ## Summary
-
 * Use Gerber files to manufacture PCBs
 * Use STL or 3MF files to print cases
 * Choose split or full configuration based on your build
-
 ---
